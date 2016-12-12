@@ -1,3 +1,3 @@
-# Ad;lister Project
+# Adlister Project
            
-Adlister project done with Java, Servlets, JSP, JSTL amd JDBC
+Adlister project done with Java, Servlets, JSP, JSTL amd JDBC.
